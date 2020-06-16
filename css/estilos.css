@@ -8,6 +8,10 @@ h1{
   font-size: 1em;
 }
 
+#cabeceraImg{
+  padding: 10px;
+}
+
 #container{
   border: 1px solid black;
   margin: 0 auto;

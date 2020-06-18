@@ -1,2 +1,2 @@
-# Nuestro-choro
+# Nuestrochoro
 Un blog de diseño

@@ -41,3 +41,10 @@ h1{
 .hero{
   margin: 10px;
 }
+
+.footer{
+  background-color: gray;
+  margin: 0 auto;
+  color: white;
+  padding: 10px;
+}

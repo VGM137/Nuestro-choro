@@ -8,16 +8,36 @@ h1{
   font-size: 1em;
 }
 
-#cabeceraImg{
+#headerImg{
   padding: 10px;
+  width: 30px;
 }
 
 #container{
 /*   border: 1px solid black; */
-  margin: 0 auto;
-  max-width: 50%;
+  width: 100%;
   text-align: left;
   padding: 10px;
   justify-content: center;
   box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, .5);
+  display: flex;
+  align-items: center;
+  background-color: aquamarine;
+}
+
+#site{
+  /*   border: 1px solid black; */
+    margin: 0 auto;
+    max-width: 50%;
+    text-align: left;
+    padding: 10px;
+    justify-content: center;
+  }
+
+.header{
+  display: flex;
+}
+
+.hero{
+  margin: 10px;
 }
